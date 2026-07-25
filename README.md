@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Sufyan17Tipu">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;React+%7C+Flask+%7C+Python+Developer;Always+Learning+New+Technologies" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Software+Engineering;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;React+%7C+Flask+%7C+Python+Developer;Always+Learning+New+Technologies" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 - 💻 Passionate about **Software Engineering, AI, Machine Learning & Full Stack Development**
 - 🔭 Currently working on **Pulsevia – AI Driven Health Assistance Tool**
 - 🌱 Learning **React.js, Flask, SQL Server, IoT & Artificial Intelligence**
-- ⚽ Football fan & proud **Real Madrid** supporter
+  
 
 ## 🛠️ Tech Stack
 
